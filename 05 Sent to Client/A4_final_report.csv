@@ -1,0 +1,27 @@
+;;;;;;;;;;;;;;;Title page
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+Question;Answer ;Data (Figure or table);;;;;;;;;;;;;
+What are the busiest days of the week and hours of the day (most orders)?;Orders begin around 7–8 AM, peak between 14:00–16:00, with mornings busier than afternoons. Weekly peaks occur on Friday and Saturday (weekend).;Figures 1 & 4;;;;;;;;;;;;;
+Are there particular times of the day when people spend the most money?;Highest order values occur between midnight and 7 AM, drop until noon, then rise slightly until 22:00.;Figure 3;;;;;;;;;;;;;
+How can we group products into simpler price ranges?;Prices can be divided into three ranges: below $5, between $5 and $15, and between $15 and $25. Very few items fall into the highest range.;Figure 12;;;;;;;;;;;;;
+Which types of products/departments are most popular?;Regular parents order different goods compared to other profiles, showing department?level variation. dep id 4 an d16;Figure 10;;;;;;;;;;;;;
+What’s the distribution among users in regards to brand loyalty (return frequency)?;"loyalty_flag
+Regular customer    15876776
+Loyal customer      10284093
+New customer         6243990
+";;;;;;;;;;;;;;
+Are there differences in ordering habits based on loyalty status?;The regular customers have the highest number of orders;Figure2 ;;;;;;;;;;;;;
+Are there differences in ordering habits based on customer’s region?;User profiles are concentrated in the South (young singles <25), while Northeast has lowest population. Also the highest and lowest spenders are in the south.;Figures 8 & 9;;;;;;;;;;;;;
+Is there a connection between age and family status in ordering habits?;"Married customers: late 30s–60s; singles: up to late 50s; living with parents: until 20; divorced/widowed: 65+.";Figure 5;;;;;;;;;;;;;
+What classifications does demographic information suggest (age, income, goods, family status)?;"Age vs kids: 0–3 kids spread across ages 35–65. Income: half earn ?200k across ages; higher incomes (>300k) mostly above 40. Family status varies by age group. customers were catagoriesd as follows: ";Figures 5, 6, 7;;;;;;;;;;;;;
+What differences exist in ordering habits of different customer profiles?;"No significant differences in frequency or expenditure across profiles; all order at similar rates and spend similar amounts.";Figure 11;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
