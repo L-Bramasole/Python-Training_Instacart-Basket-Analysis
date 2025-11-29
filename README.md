@@ -1,4 +1,4 @@
-# CF-Python
+# Instacart-Basket-Analysis
  # This Repository contains all Python exercises and Achievements as part of my Data Analysis-Python learning course with Career Foundry.
  ## The data sets used for practicing is Instacart Basket online grocery store open source data.
  Orders, Products, Departments, Customers( this data set is dummy set created by Career Foundry)
